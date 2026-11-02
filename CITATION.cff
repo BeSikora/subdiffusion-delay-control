@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: >-
+  If you use this code, please cite the accompanying article
+  (see "preferred-citation" below).
+title: >-
+  Numerical experiments for "Rest, final state and delay state:
+  controllability of subdiffusion equations with a delay in the diffusion term"
+type: software
+authors:
+  - family-names: Sikora
+    given-names: Beata
+    email: beata.sikora@polsl.pl
+    affiliation: >-
+      Department of Mathematical Methods in Technics and Informatics,
+      Silesian University of Technology, Gliwice, Poland
+    orcid: "https://orcid.org/0000-0001-9471-4706"
+license: MIT
+version: 1.0.0
+date-released: "2026-11-02"
+repository-code: "https://github.com/BeSikora/subdiffusion-delay-control"
+keywords:
+  - subdiffusion
+  - Caputo derivative
+  - delay
+  - controllability to rest
+  - approximate controllability
+  - Mittag-Leffler functions
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Sikora
+      given-names: Beata
+      email: beata.sikora@polsl.pl
+      affiliation: Silesian University of Technology
+      orcid: "https://orcid.org/0000-0001-9471-4706"
+  title: >-
+    Rest, final state and delay state: controllability of subdiffusion
+    equations with a delay in the diffusion term
+  journal: SIAM Journal on Control and Optimization
+  status: submitted
+  year: 2026
+  # After acceptance replace "status: submitted" by volume, issue, start,
+  # end and doi.
